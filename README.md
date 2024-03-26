@@ -1,1 +1,1 @@
-# Java_guessing_game
+Java를 이용한 프로그램을 저장하는 폴더
